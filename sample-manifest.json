@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b50ed2cf-285c-4f3e-989b-dc8ada0cba5f",
+  "id_short": 126297,
+  "published_at": "2026-04-18T07:24:01Z",
+  "repo_name": "all-restaurants-in-bridgeport-stamford-danbury-metro-connecticut-us-sample-126297",
+  "sample_asset_name": "beamstation_126297_restaurants-us-bridgeportstamforddanburyct_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/126297/beamstation_126297_restaurants-us-bridgeportstamforddanburyct_SAMPLE_DIST.csv",
+  "sample_records": 270,
+  "sample_sha256": "27c9c07e127398b58b1efb5f1cd933eb1feb7e60f44267777b1ce2c3cc91977e",
+  "sample_size_bytes": 956152,
+  "total_records": 2709
+}
