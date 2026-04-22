@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Full metro-level restaurant coverage for Bridgeport-Stamford-Danbury (Metro), Connecticut, spanning Bridgeport, Stamford, and Danbury. Covers a mid-size metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Bridgeport-Stamford-Danbury (Metro), Connecticut, US",
-  "export_job_id": "b50ed2cf-285c-4f3e-989b-dc8ada0cba5f",
+  "export_job_id": "096b1bb2-e887-4de7-9597-98709542c7dc",
   "github_org": "Beamstation-Datasets",
   "id_short": 126297,
   "location_name": "Bridgeport-Stamford-Danbury, CT",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-bridgeport-stamford-danbury-metro-connecticut-us-sample-126297",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/126297/beamstation_126297_restaurants-us-bridgeportstamforddanburyct_SAMPLE_DIST.csv",
   "sample_pct": 9.97,
-  "sample_records": 270,
-  "sample_sha256": "27c9c07e127398b58b1efb5f1cd933eb1feb7e60f44267777b1ce2c3cc91977e",
-  "sample_size_bytes": 956152,
-  "total_records": 2709,
-  "updated_at": "2026-04-14T19:13:23.813308+00:00"
+  "sample_records": 210,
+  "sample_sha256": "cdd5d03d5b2f8138b19656138b3c9fe64013110397a51ff2608fa05b3cf28cef",
+  "sample_size_bytes": 761805,
+  "total_records": 2107,
+  "updated_at": "2026-04-21T21:11:33.771382+00:00"
 }
