@@ -1,6 +1,6 @@
 # All Restaurants in Bridgeport-Stamford-Danbury (Metro), Connecticut, US
 
-> Free BeamStation sample export with 210 rows and masked direct-contact fields.
+> Free BeamStation sample export with 267 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `126297` |
 | Location | Bridgeport-Stamford-Danbury, CT |
 | Category | Restaurants |
-| Full dataset size | 2,107 records |
-| Free sample size | 210 records (9.97%) |
-| Last export | 2026-04-21T21:11:33.771382+00:00 |
+| Full dataset size | 2,672 records |
+| Free sample size | 267 records (9.99%) |
+| Last export | 2026-04-28T23:16:32.097960+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bridgeport-stamford-danbury-metro-connecticut-us-sample-126297/releases/download/sample-latest/beamstation_126297_restaurants-us-bridgeportstamforddanburyct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
